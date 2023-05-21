@@ -9,7 +9,7 @@
 
 section {
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0)), url(/asset/img/bg-img.png);
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0)), url(bg-img.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
